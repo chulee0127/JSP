@@ -21,7 +21,7 @@ public class B_greet extends HttpServlet {
 
 	public void init() throws ServletException {
 		try {
-			logFile = new PrintWriter(new FileWriter("C:\\Users\\USER\\eclipse-workspace\\ex6\\log.txt", true));
+			logFile = new PrintWriter(new FileWriter("C:\\Users\\USER\\eclipse-workspace\\B_file\\log.txt", true));
 		} catch (IOException e) {
 			throw new ServletException(e);
 		}
