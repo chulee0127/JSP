@@ -11,7 +11,7 @@
 </head>
 
 <body>
-<FORM ACTION=/brain/QuikSort>
+<FORM ACTION=/A_file/QuikSort>
 <!--20개의 수를 입력받는다.-->
 1번째 수:<INPUT TYPE=TEXT NAME=NUM1><BR>
 2번째 수:<INPUT TYPE=TEXT NAME=NUM2><BR>
